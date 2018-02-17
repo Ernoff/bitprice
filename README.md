@@ -14,8 +14,8 @@ Sample application demonstrating nextjs
 
 ## Contributors
 
-- [Ernest Offiong](http://gtihub.com/Ernoff)
+- [Ernest Offiong](http://github.com/Ernoff)
 
 ## Appreciation
 
-Thanks to Traversy Media for the tutorials and guideline 
+Thanks to [Traversy Media](https://www.youtube.com/user/TechGuyWeb) for the tutorials and guideline 
